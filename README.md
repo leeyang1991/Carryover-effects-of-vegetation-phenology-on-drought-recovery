@@ -1,6 +1,7 @@
-# Carryover-effects-of-vegetation-phenology-on-drought-recovery
+## Carryover-effects-of-vegetation-phenology-on-drought-recovery
 
-This file contains the supplementary data of Li et al.,(2022) Carryover effects of vegetation phenology on drought recovery
+This repository contains the supplementary data of Li et al.,(2022)
+_**Carryover effects of vegetation phenology on drought recovery**_
 
 To run the scripts, package ***lytools*** with the version of 0.0.47 is required.
 

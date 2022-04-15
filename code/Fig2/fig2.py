@@ -204,14 +204,12 @@ def plot_fig2f():
 
 
 def main():
-    # plot_fig2a()
-    # plot_fig2b()
-    # plot_fig2c()
-    # plot_fig2d_2e()
-    # plot_fig2d_2e_ANOVA_test()
-    # plot_fig2e()
+    plot_fig2a()
+    plot_fig2b()
+    plot_fig2c()
+    plot_fig2d_2e()
+    plot_fig2d_2e_ANOVA_test()
     plot_fig2f()
-    pass
 
 if __name__ == '__main__':
     main()
