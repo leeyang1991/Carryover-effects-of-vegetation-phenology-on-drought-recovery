@@ -1,6 +1,5 @@
 # coding=utf-8
 from lytools import *  ## pip install lytools==0.0.47
-from scipy.stats import f_oneway
 data_path = '../../data/SI_Fig07'
 land_path = '../../data/common_data/land_mask.tif'
 
