@@ -31,7 +31,7 @@ def plot_spatial(ax,fpath,vmin=None,vmax=None):
     return pcm
 
 def plot_SI_Fig07():
-    ## plot figure S3
+    ## plot figure S7
     timing_list = ['early','mid','late']
     fig,axs = plt.subplots(1,3,figsize=(12,3))
     col = 0
